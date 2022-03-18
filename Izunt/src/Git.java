@@ -1,9 +1,11 @@
-public class Git
+
+public class Git 
 {
-public static void main (String[] args)
-{
-displayInfo();
-}
+	public static void main (String[] args)
+	{
+	displayInfo();
+	}
+
 
 private static void displayInfo()
 {
